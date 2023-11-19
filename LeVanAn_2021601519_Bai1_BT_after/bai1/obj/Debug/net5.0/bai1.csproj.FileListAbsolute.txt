@@ -1,0 +1,16 @@
+E:\dotnet\LeVanAn_2021601519_Bai1_BT_after\LeVanAn_2021601519_Bai1_BT_after\bai1\bin\Debug\net5.0\bai1.exe
+E:\dotnet\LeVanAn_2021601519_Bai1_BT_after\LeVanAn_2021601519_Bai1_BT_after\bai1\bin\Debug\net5.0\bai1.deps.json
+E:\dotnet\LeVanAn_2021601519_Bai1_BT_after\LeVanAn_2021601519_Bai1_BT_after\bai1\bin\Debug\net5.0\bai1.runtimeconfig.json
+E:\dotnet\LeVanAn_2021601519_Bai1_BT_after\LeVanAn_2021601519_Bai1_BT_after\bai1\bin\Debug\net5.0\bai1.runtimeconfig.dev.json
+E:\dotnet\LeVanAn_2021601519_Bai1_BT_after\LeVanAn_2021601519_Bai1_BT_after\bai1\bin\Debug\net5.0\bai1.dll
+E:\dotnet\LeVanAn_2021601519_Bai1_BT_after\LeVanAn_2021601519_Bai1_BT_after\bai1\bin\Debug\net5.0\bai1.pdb
+E:\dotnet\LeVanAn_2021601519_Bai1_BT_after\LeVanAn_2021601519_Bai1_BT_after\bai1\obj\Debug\net5.0\bai1.csproj.AssemblyReference.cache
+E:\dotnet\LeVanAn_2021601519_Bai1_BT_after\LeVanAn_2021601519_Bai1_BT_after\bai1\obj\Debug\net5.0\bai1.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotnet\LeVanAn_2021601519_Bai1_BT_after\LeVanAn_2021601519_Bai1_BT_after\bai1\obj\Debug\net5.0\bai1.AssemblyInfoInputs.cache
+E:\dotnet\LeVanAn_2021601519_Bai1_BT_after\LeVanAn_2021601519_Bai1_BT_after\bai1\obj\Debug\net5.0\bai1.AssemblyInfo.cs
+E:\dotnet\LeVanAn_2021601519_Bai1_BT_after\LeVanAn_2021601519_Bai1_BT_after\bai1\obj\Debug\net5.0\bai1.csproj.CoreCompileInputs.cache
+E:\dotnet\LeVanAn_2021601519_Bai1_BT_after\LeVanAn_2021601519_Bai1_BT_after\bai1\obj\Debug\net5.0\bai1.dll
+E:\dotnet\LeVanAn_2021601519_Bai1_BT_after\LeVanAn_2021601519_Bai1_BT_after\bai1\obj\Debug\net5.0\refint\bai1.dll
+E:\dotnet\LeVanAn_2021601519_Bai1_BT_after\LeVanAn_2021601519_Bai1_BT_after\bai1\obj\Debug\net5.0\bai1.pdb
+E:\dotnet\LeVanAn_2021601519_Bai1_BT_after\LeVanAn_2021601519_Bai1_BT_after\bai1\obj\Debug\net5.0\bai1.genruntimeconfig.cache
+E:\dotnet\LeVanAn_2021601519_Bai1_BT_after\LeVanAn_2021601519_Bai1_BT_after\bai1\obj\Debug\net5.0\ref\bai1.dll

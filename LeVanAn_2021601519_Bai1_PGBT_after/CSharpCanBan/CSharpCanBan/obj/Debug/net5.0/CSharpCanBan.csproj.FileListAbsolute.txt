@@ -1,0 +1,16 @@
+E:\dotnet\LeVanAn_2021601519_Bai1_PGBT_after\CSharpCanBan\CSharpCanBan\bin\Debug\net5.0\CSharpCanBan.exe
+E:\dotnet\LeVanAn_2021601519_Bai1_PGBT_after\CSharpCanBan\CSharpCanBan\bin\Debug\net5.0\CSharpCanBan.deps.json
+E:\dotnet\LeVanAn_2021601519_Bai1_PGBT_after\CSharpCanBan\CSharpCanBan\bin\Debug\net5.0\CSharpCanBan.runtimeconfig.json
+E:\dotnet\LeVanAn_2021601519_Bai1_PGBT_after\CSharpCanBan\CSharpCanBan\bin\Debug\net5.0\CSharpCanBan.runtimeconfig.dev.json
+E:\dotnet\LeVanAn_2021601519_Bai1_PGBT_after\CSharpCanBan\CSharpCanBan\bin\Debug\net5.0\CSharpCanBan.dll
+E:\dotnet\LeVanAn_2021601519_Bai1_PGBT_after\CSharpCanBan\CSharpCanBan\bin\Debug\net5.0\CSharpCanBan.pdb
+E:\dotnet\LeVanAn_2021601519_Bai1_PGBT_after\CSharpCanBan\CSharpCanBan\obj\Debug\net5.0\CSharpCanBan.csproj.AssemblyReference.cache
+E:\dotnet\LeVanAn_2021601519_Bai1_PGBT_after\CSharpCanBan\CSharpCanBan\obj\Debug\net5.0\CSharpCanBan.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotnet\LeVanAn_2021601519_Bai1_PGBT_after\CSharpCanBan\CSharpCanBan\obj\Debug\net5.0\CSharpCanBan.AssemblyInfoInputs.cache
+E:\dotnet\LeVanAn_2021601519_Bai1_PGBT_after\CSharpCanBan\CSharpCanBan\obj\Debug\net5.0\CSharpCanBan.AssemblyInfo.cs
+E:\dotnet\LeVanAn_2021601519_Bai1_PGBT_after\CSharpCanBan\CSharpCanBan\obj\Debug\net5.0\CSharpCanBan.csproj.CoreCompileInputs.cache
+E:\dotnet\LeVanAn_2021601519_Bai1_PGBT_after\CSharpCanBan\CSharpCanBan\obj\Debug\net5.0\CSharpCanBan.dll
+E:\dotnet\LeVanAn_2021601519_Bai1_PGBT_after\CSharpCanBan\CSharpCanBan\obj\Debug\net5.0\refint\CSharpCanBan.dll
+E:\dotnet\LeVanAn_2021601519_Bai1_PGBT_after\CSharpCanBan\CSharpCanBan\obj\Debug\net5.0\CSharpCanBan.pdb
+E:\dotnet\LeVanAn_2021601519_Bai1_PGBT_after\CSharpCanBan\CSharpCanBan\obj\Debug\net5.0\CSharpCanBan.genruntimeconfig.cache
+E:\dotnet\LeVanAn_2021601519_Bai1_PGBT_after\CSharpCanBan\CSharpCanBan\obj\Debug\net5.0\ref\CSharpCanBan.dll

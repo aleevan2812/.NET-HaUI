@@ -1,0 +1,16 @@
+E:\dotnet\LeVanAn_2021601519_Bai1_PGBT_after\CSharpCanBan\XepLoaiHS\bin\Debug\net5.0\XepLoaiHS.exe
+E:\dotnet\LeVanAn_2021601519_Bai1_PGBT_after\CSharpCanBan\XepLoaiHS\bin\Debug\net5.0\XepLoaiHS.deps.json
+E:\dotnet\LeVanAn_2021601519_Bai1_PGBT_after\CSharpCanBan\XepLoaiHS\bin\Debug\net5.0\XepLoaiHS.runtimeconfig.json
+E:\dotnet\LeVanAn_2021601519_Bai1_PGBT_after\CSharpCanBan\XepLoaiHS\bin\Debug\net5.0\XepLoaiHS.runtimeconfig.dev.json
+E:\dotnet\LeVanAn_2021601519_Bai1_PGBT_after\CSharpCanBan\XepLoaiHS\bin\Debug\net5.0\XepLoaiHS.dll
+E:\dotnet\LeVanAn_2021601519_Bai1_PGBT_after\CSharpCanBan\XepLoaiHS\bin\Debug\net5.0\XepLoaiHS.pdb
+E:\dotnet\LeVanAn_2021601519_Bai1_PGBT_after\CSharpCanBan\XepLoaiHS\obj\Debug\net5.0\XepLoaiHS.csproj.AssemblyReference.cache
+E:\dotnet\LeVanAn_2021601519_Bai1_PGBT_after\CSharpCanBan\XepLoaiHS\obj\Debug\net5.0\XepLoaiHS.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotnet\LeVanAn_2021601519_Bai1_PGBT_after\CSharpCanBan\XepLoaiHS\obj\Debug\net5.0\XepLoaiHS.AssemblyInfoInputs.cache
+E:\dotnet\LeVanAn_2021601519_Bai1_PGBT_after\CSharpCanBan\XepLoaiHS\obj\Debug\net5.0\XepLoaiHS.AssemblyInfo.cs
+E:\dotnet\LeVanAn_2021601519_Bai1_PGBT_after\CSharpCanBan\XepLoaiHS\obj\Debug\net5.0\XepLoaiHS.csproj.CoreCompileInputs.cache
+E:\dotnet\LeVanAn_2021601519_Bai1_PGBT_after\CSharpCanBan\XepLoaiHS\obj\Debug\net5.0\XepLoaiHS.dll
+E:\dotnet\LeVanAn_2021601519_Bai1_PGBT_after\CSharpCanBan\XepLoaiHS\obj\Debug\net5.0\refint\XepLoaiHS.dll
+E:\dotnet\LeVanAn_2021601519_Bai1_PGBT_after\CSharpCanBan\XepLoaiHS\obj\Debug\net5.0\XepLoaiHS.pdb
+E:\dotnet\LeVanAn_2021601519_Bai1_PGBT_after\CSharpCanBan\XepLoaiHS\obj\Debug\net5.0\XepLoaiHS.genruntimeconfig.cache
+E:\dotnet\LeVanAn_2021601519_Bai1_PGBT_after\CSharpCanBan\XepLoaiHS\obj\Debug\net5.0\ref\XepLoaiHS.dll

@@ -1,0 +1,1 @@
+Scaffold-DbContext "Data Source=DESKTOP-0IS5TLE\ALEEVAN2812;Initial Catalog=QLBanHang;Integrated Security=True" Microsoft.EntityFrameworkCore.SqlServer –OutputDir Models

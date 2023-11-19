@@ -1,0 +1,16 @@
+E:\dotnet\LeVanAn_2021601519_Bai1_PGBT_after\CSharpCanBan\TamGiac\bin\Debug\net5.0\TamGiac.exe
+E:\dotnet\LeVanAn_2021601519_Bai1_PGBT_after\CSharpCanBan\TamGiac\bin\Debug\net5.0\TamGiac.deps.json
+E:\dotnet\LeVanAn_2021601519_Bai1_PGBT_after\CSharpCanBan\TamGiac\bin\Debug\net5.0\TamGiac.runtimeconfig.json
+E:\dotnet\LeVanAn_2021601519_Bai1_PGBT_after\CSharpCanBan\TamGiac\bin\Debug\net5.0\TamGiac.runtimeconfig.dev.json
+E:\dotnet\LeVanAn_2021601519_Bai1_PGBT_after\CSharpCanBan\TamGiac\bin\Debug\net5.0\TamGiac.dll
+E:\dotnet\LeVanAn_2021601519_Bai1_PGBT_after\CSharpCanBan\TamGiac\bin\Debug\net5.0\TamGiac.pdb
+E:\dotnet\LeVanAn_2021601519_Bai1_PGBT_after\CSharpCanBan\TamGiac\obj\Debug\net5.0\TamGiac.csproj.AssemblyReference.cache
+E:\dotnet\LeVanAn_2021601519_Bai1_PGBT_after\CSharpCanBan\TamGiac\obj\Debug\net5.0\TamGiac.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotnet\LeVanAn_2021601519_Bai1_PGBT_after\CSharpCanBan\TamGiac\obj\Debug\net5.0\TamGiac.AssemblyInfoInputs.cache
+E:\dotnet\LeVanAn_2021601519_Bai1_PGBT_after\CSharpCanBan\TamGiac\obj\Debug\net5.0\TamGiac.AssemblyInfo.cs
+E:\dotnet\LeVanAn_2021601519_Bai1_PGBT_after\CSharpCanBan\TamGiac\obj\Debug\net5.0\TamGiac.csproj.CoreCompileInputs.cache
+E:\dotnet\LeVanAn_2021601519_Bai1_PGBT_after\CSharpCanBan\TamGiac\obj\Debug\net5.0\TamGiac.dll
+E:\dotnet\LeVanAn_2021601519_Bai1_PGBT_after\CSharpCanBan\TamGiac\obj\Debug\net5.0\refint\TamGiac.dll
+E:\dotnet\LeVanAn_2021601519_Bai1_PGBT_after\CSharpCanBan\TamGiac\obj\Debug\net5.0\TamGiac.pdb
+E:\dotnet\LeVanAn_2021601519_Bai1_PGBT_after\CSharpCanBan\TamGiac\obj\Debug\net5.0\TamGiac.genruntimeconfig.cache
+E:\dotnet\LeVanAn_2021601519_Bai1_PGBT_after\CSharpCanBan\TamGiac\obj\Debug\net5.0\ref\TamGiac.dll

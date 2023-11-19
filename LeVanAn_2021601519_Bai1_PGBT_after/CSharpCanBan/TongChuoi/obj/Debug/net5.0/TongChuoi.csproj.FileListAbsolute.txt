@@ -1,0 +1,16 @@
+E:\dotnet\LeVanAn_2021601519_Bai1_PGBT_after\CSharpCanBan\TongChuoi\bin\Debug\net5.0\TongChuoi.exe
+E:\dotnet\LeVanAn_2021601519_Bai1_PGBT_after\CSharpCanBan\TongChuoi\bin\Debug\net5.0\TongChuoi.deps.json
+E:\dotnet\LeVanAn_2021601519_Bai1_PGBT_after\CSharpCanBan\TongChuoi\bin\Debug\net5.0\TongChuoi.runtimeconfig.json
+E:\dotnet\LeVanAn_2021601519_Bai1_PGBT_after\CSharpCanBan\TongChuoi\bin\Debug\net5.0\TongChuoi.runtimeconfig.dev.json
+E:\dotnet\LeVanAn_2021601519_Bai1_PGBT_after\CSharpCanBan\TongChuoi\bin\Debug\net5.0\TongChuoi.dll
+E:\dotnet\LeVanAn_2021601519_Bai1_PGBT_after\CSharpCanBan\TongChuoi\bin\Debug\net5.0\TongChuoi.pdb
+E:\dotnet\LeVanAn_2021601519_Bai1_PGBT_after\CSharpCanBan\TongChuoi\obj\Debug\net5.0\TongChuoi.csproj.AssemblyReference.cache
+E:\dotnet\LeVanAn_2021601519_Bai1_PGBT_after\CSharpCanBan\TongChuoi\obj\Debug\net5.0\TongChuoi.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotnet\LeVanAn_2021601519_Bai1_PGBT_after\CSharpCanBan\TongChuoi\obj\Debug\net5.0\TongChuoi.AssemblyInfoInputs.cache
+E:\dotnet\LeVanAn_2021601519_Bai1_PGBT_after\CSharpCanBan\TongChuoi\obj\Debug\net5.0\TongChuoi.AssemblyInfo.cs
+E:\dotnet\LeVanAn_2021601519_Bai1_PGBT_after\CSharpCanBan\TongChuoi\obj\Debug\net5.0\TongChuoi.csproj.CoreCompileInputs.cache
+E:\dotnet\LeVanAn_2021601519_Bai1_PGBT_after\CSharpCanBan\TongChuoi\obj\Debug\net5.0\TongChuoi.dll
+E:\dotnet\LeVanAn_2021601519_Bai1_PGBT_after\CSharpCanBan\TongChuoi\obj\Debug\net5.0\refint\TongChuoi.dll
+E:\dotnet\LeVanAn_2021601519_Bai1_PGBT_after\CSharpCanBan\TongChuoi\obj\Debug\net5.0\TongChuoi.pdb
+E:\dotnet\LeVanAn_2021601519_Bai1_PGBT_after\CSharpCanBan\TongChuoi\obj\Debug\net5.0\TongChuoi.genruntimeconfig.cache
+E:\dotnet\LeVanAn_2021601519_Bai1_PGBT_after\CSharpCanBan\TongChuoi\obj\Debug\net5.0\ref\TongChuoi.dll
